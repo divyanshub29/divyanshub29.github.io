@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi, I’m Divyanshu. I live in India and work as a software engineer. I’m interested in problem solving, developer productivity, databases, and distributed systems. I started this blog in 2023.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+You can email me if you have questions or thoughts about anything I’ve written. I’d love to hear from you!
